@@ -1,0 +1,44 @@
+main {  
+    font-family: sans-serif, serif; 
+  }
+  
+  header {
+    position: relative;
+    text-align: center;
+    color: blue;
+    height: auto;
+  }
+  
+  #image {
+    display: block;
+    position: relative;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+  }
+  
+  #img-caption {
+    display: block;
+    margin: auto;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  #tribute-info {
+    position: relative;
+    text-align: center;
+    margin: auto;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  footer { 
+    position: relative;
+    text-align: center;
+    margin: auto;
+  }
+  
